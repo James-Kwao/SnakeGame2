@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SnakeGame2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeGame2</output-path>
+    <root id="archive" name="SnakeGame2.jar">
+      <element id="module-output" name="SnakeGame2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
